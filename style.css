@@ -160,7 +160,7 @@ body{
 .contact-form .message-form> textarea{
   height: 150px;
   width: 605px;
-  text-indent: 20px ;
+  text-indent: 25px;
   border-radius: 8px;
   font-family: 'DM Sans', sans-serif;
   padding: 10px 0;
